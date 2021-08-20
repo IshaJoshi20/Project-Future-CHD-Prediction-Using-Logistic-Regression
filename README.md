@@ -70,12 +70,12 @@ Below is a few highlights of the prediction analysis:
 
 •	Outliers are also present for some factors.
 
-•	Accuracy [Accuracy = (TP+TN)/(TP+FP+TN+FN)] of the model is around 85.5%.
+•	Accuracy [Accuracy = (TP+TN)/(TP+FP+TN+FN)] of the model is around **85.5%**.
 
-•	Precision [Precision=TP/(TP+FP)] of the model is around 99.4%.
+•	Precision [Precision=TP/(TP+FP)] of the model is around **99.4%**.
 
-•	Recall [Recall= TP/(TP+FN)] of the model is 85.79%.
+•	Recall [Recall= TP/(TP+FN)] of the model is **85.79%**.
 
-•	F1 [f1=2*((Precision * Recall )) /(Precision + Recall)] of the model is around 92.1%.
+•	F1 [f1=2*((Precision * Recall )) /(Precision + Recall)] of the model is around **92.1%**.
 
-•	AUC is around 53% (this model is not good for prediction of given dataset).
+•	AUC is around **53%** (this model is not good for prediction of given dataset).
